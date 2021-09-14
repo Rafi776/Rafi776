@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **everything except personal**
 
-- 📫 How to reach me **rhrafi@gmail.com**
+- 📫 How to reach me **rhrafi5@gmail.com**
 
 - ⚡ Fun fact **I'm funny as you want.**
 
