@@ -1,5 +1,5 @@
-<h1 align="center"> <img src="ttps://user-images.githubusercontent.com/45680919/152209377-6147f304-1929-4a15-944c-ef36f376a8de.gif" /></h1>
-<p align="left"> <img src="ttps://user-images.githubusercontent.com/45680919/152209377-6147f304-1929-4a15-944c-ef36f376a8de.gif alt="rafi776" /></a> </p>
+![text](https://user-images.githubusercontent.com/45680919/152209930-58f34cd3-6f85-4b12-9068-8f44e08b8830.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan Rafi</h1>
