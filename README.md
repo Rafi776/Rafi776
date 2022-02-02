@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan Rafi</h1>
-<h3 align="center"> <img src="https://www.facebook.com/photo/?fbid=2261336270826315&set=a.1391673264459291" /> A Student of Computer Science & Engineering in Bangladesh</h3>
+<h1>Typewriter</h1>
+
+<button onclick="typeWriter()">Click me</button>
+
+<p id="demo"></p>
+
+<script>
+var i = 0;
+var txt = 'Lorem ipsum dummy text blabla.';
+var speed = 50;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
+<h3 align="center">  A Student of Computer Science & Engineering in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi776&label=Profile%20views&color=0e75b6&style=flat" alt="rafi776" /> </p>
 
