@@ -1,3 +1,6 @@
+![text](https://user-images.githubusercontent.com/45680919/152209377-6147f304-1929-4a15-944c-ef36f376a8de.gif)
+
+
 <p align="center"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan Rafi</h1>
 <h3 align="center">  A Student of Computer Science & Engineering in Bangladesh</h3>
