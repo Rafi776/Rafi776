@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan Rafi</h1>
-<h3 align="center">A Student of Computer Science & Engineering in Bangladesh</h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=rafi776&label=Profile%20views&color=0e75b6&style=flat" alt="rafi776" /> A Student of Computer Science & Engineering in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi776&label=Profile%20views&color=0e75b6&style=flat" alt="rafi776" /> </p>
 
