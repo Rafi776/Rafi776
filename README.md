@@ -4,6 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan Rafi</h1>
 <h3 align="center">  A Student of Computer Science & Engineering in Bangladesh</h3>
+![AIUB_whole_logo](https://user-images.githubusercontent.com/45680919/152210145-28a7cf96-2c0d-4a47-affa-5ca9fa00069e.png)
+
+<h3 align="center">  American International University-Bangladesh (AIUB)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi776&label=Profile%20views&color=0e75b6&style=flat" alt="rafi776" /> </p>
 
