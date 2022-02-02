@@ -1,4 +1,4 @@
-<p align="center">A flutter package which contains a collection of some cool and awesome text animations. Recommended package for text animations in Codemagic's Ebook, <a href="https://blog.codemagic.io/flutter-libraries-ebook-by-codemagic/ebook-flutter-libraries-we-love-by-codemagic.pdf">"Flutter libraries we love"</a>. Try out our <a href="https://animated-text-kit.web.app/">live example app</a>.</p><br>
+<p align="center"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan Rafi</h1>
 <h3 align="center">  A Student of Computer Science & Engineering in Bangladesh</h3>
 
